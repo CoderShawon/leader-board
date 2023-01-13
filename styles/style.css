@@ -133,6 +133,7 @@ hr{
     .container{
         display: grid;
         justify-items: center;
+        padding-left: 300px;
     }
     .section-title{
         text-align: center;
